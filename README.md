@@ -1,2 +1,1 @@
-# portfolioProject1
-Animated Portfolio Project Using HTML CSS JavaScript
+[Portfolio (Click Me!)](https://sammywysor.github.io/Portfolio-Project/)
